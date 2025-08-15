@@ -1,0 +1,175 @@
+{
+  "lastUpdated": "2025-01-17T10:00:00Z",
+  "version": "1.0",
+  "categories": [
+    {
+      "id": "coran-recitations",
+      "name": "Récitations du Coran",
+      "icon": "book-open",
+      "color": "emerald",
+      "videos": [
+        {
+          "id": 1,
+          "title": "Sourate Al-Fatiha - Récitation magnifique",
+          "description": "Récitation émouvante de la sourate Al-Fatiha par Sheikh Abdul Rahman Al-Sudais",
+          "youtubeId": "EXEMPLE_VIDEO_ID_1",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EXEMPLE_VIDEO_ID_1",
+          "duration": "3:45",
+          "thumbnail": "https://img.youtube.com/vi/EXEMPLE_VIDEO_ID_1/maxresdefault.jpg",
+          "reciter": "Sheikh Abdul Rahman Al-Sudais",
+          "language": "Arabe",
+          "category": "Sourates courtes"
+        },
+        {
+          "id": 2,
+          "title": "Sourate Al-Baqarah - Partie 1",
+          "description": "Première partie de la sourate Al-Baqarah avec une récitation apaisante",
+          "youtubeId": "EXEMPLE_VIDEO_ID_2",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EXEMPLE_VIDEO_ID_2",
+          "duration": "45:20",
+          "thumbnail": "https://img.youtube.com/vi/EXEMPLE_VIDEO_ID_2/maxresdefault.jpg",
+          "reciter": "Sheikh Mishary Rashid Alafasy",
+          "language": "Arabe",
+          "category": "Sourates longues"
+        }
+      ]
+    },
+    {
+      "id": "conferences",
+      "name": "Conférences Islamiques",
+      "icon": "mic",
+      "color": "blue",
+      "videos": [
+        {
+          "id": 3,
+          "title": "Les 5 Piliers de l'Islam",
+          "description": "Conférence complète sur les fondements de l'Islam",
+          "youtubeId": "EXEMPLE_VIDEO_ID_3",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EXEMPLE_VIDEO_ID_3",
+          "duration": "1:15:30",
+          "thumbnail": "https://img.youtube.com/vi/EXEMPLE_VIDEO_ID_3/maxresdefault.jpg",
+          "speaker": "Dr. Tariq Ramadan",
+          "language": "Français",
+          "category": "Fondements"
+        },
+        {
+          "id": 4,
+          "title": "La Prière en Islam - Guide complet",
+          "description": "Comment bien accomplir la prière selon la Sunnah",
+          "youtubeId": "EXEMPLE_VIDEO_ID_4",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EXEMPLE_VIDEO_ID_4",
+          "duration": "28:15",
+          "thumbnail": "https://img.youtube.com/vi/EXEMPLE_VIDEO_ID_4/maxresdefault.jpg",
+          "speaker": "Sheikh Hassan Iquioussen",
+          "language": "Français",
+          "category": "Pratiques"
+        }
+      ]
+    },
+    {
+      "id": "documentaires",
+      "name": "Documentaires",
+      "icon": "film",
+      "color": "purple",
+      "videos": [
+        {
+          "id": 5,
+          "title": "L'Histoire de La Mecque",
+          "description": "Documentaire sur l'histoire sacrée de La Mecque",
+          "youtubeId": "EXEMPLE_VIDEO_ID_5",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EXEMPLE_VIDEO_ID_5",
+          "duration": "52:30",
+          "thumbnail": "https://img.youtube.com/vi/EXEMPLE_VIDEO_ID_5/maxresdefault.jpg",
+          "producer": "Islamic History Channel",
+          "language": "Français",
+          "category": "Histoire"
+        },
+        {
+          "id": 6,
+          "title": "Les Miracles Scientifiques du Coran",
+          "description": "Découverte des vérités scientifiques dans le Coran",
+          "youtubeId": "EXEMPLE_VIDEO_ID_6",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EXEMPLE_VIDEO_ID_6",
+          "duration": "1:05:45",
+          "thumbnail": "https://img.youtube.com/vi/EXEMPLE_VIDEO_ID_6/maxresdefault.jpg",
+          "producer": "Science & Islam",
+          "language": "Français",
+          "category": "Science"
+        }
+      ]
+    },
+    {
+      "id": "apprentissage",
+      "name": "Apprentissage",
+      "icon": "graduation-cap",
+      "color": "orange",
+      "videos": [
+        {
+          "id": 7,
+          "title": "Apprendre l'Arabe - Leçon 1",
+          "description": "Première leçon pour apprendre l'alphabet arabe",
+          "youtubeId": "EXEMPLE_VIDEO_ID_7",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EXEMPLE_VIDEO_ID_7",
+          "duration": "15:20",
+          "thumbnail": "https://img.youtube.com/vi/EXEMPLE_VIDEO_ID_7/maxresdefault.jpg",
+          "teacher": "Professeur Ahmad",
+          "language": "Français/Arabe",
+          "category": "Langue arabe"
+        },
+        {
+          "id": 8,
+          "title": "Comment faire les ablutions",
+          "description": "Guide pratique pour apprendre les ablutions",
+          "youtubeId": "EXEMPLE_VIDEO_ID_8",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EXEMPLE_VIDEO_ID_8",
+          "duration": "8:30",
+          "thumbnail": "https://img.youtube.com/vi/EXEMPLE_VIDEO_ID_8/maxresdefault.jpg",
+          "teacher": "Sheikh Mohamed",
+          "language": "Français",
+          "category": "Pratiques"
+        }
+      ]
+    },
+    {
+      "id": "jeunesse",
+      "name": "Contenu Jeunesse",
+      "icon": "users",
+      "color": "green",
+      "videos": [
+        {
+          "id": 9,
+          "title": "Histoires des Prophètes pour enfants",
+          "description": "Histoire du Prophète Yusuf (Joseph) racontée aux enfants",
+          "youtubeId": "EXEMPLE_VIDEO_ID_9",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EXEMPLE_VIDEO_ID_9",
+          "duration": "25:15",
+          "thumbnail": "https://img.youtube.com/vi/EXEMPLE_VIDEO_ID_9/maxresdefault.jpg",
+          "narrator": "Amina Stories",
+          "language": "Français",
+          "category": "Histoires",
+          "ageGroup": "6-12 ans"
+        },
+        {
+          "id": 10,
+          "title": "Les bonnes manières en Islam",
+          "description": "Apprendre les bonnes manières islamiques en s'amusant",
+          "youtubeId": "EXEMPLE_VIDEO_ID_10",
+          "youtubeUrl": "https://www.youtube.com/watch?v=EXEMPLE_VIDEO_ID_10",
+          "duration": "12:45",
+          "thumbnail": "https://img.youtube.com/vi/EXEMPLE_VIDEO_ID_10/maxresdefault.jpg",
+          "narrator": "Islamic Kids TV",
+          "language": "Français",
+          "category": "Éducation",
+          "ageGroup": "4-10 ans"
+        }
+      ]
+    }
+  ],
+  "metadata": {
+    "totalVideos": 10,
+    "totalCategories": 5,
+    "supportedLanguages": ["Français", "Arabe", "Français/Arabe"],
+    "updateFrequency": "Hebdomadaire",
+    "maintainer": "BadrDine Team"
+  }
+}
